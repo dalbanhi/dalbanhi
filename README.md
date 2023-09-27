@@ -1,9 +1,9 @@
-### Hi there! I'm David $^{*}$ 👋
+### Hi there! I'm David* 👋
 I'm an educator and technologist based in Houston, Texas. 🤠
 
 I've worked in tech policy at the [San Jose MOTI](https://www.motisanjose.org/) and the [Aspen Tech Policy Hub](https://www.aspentechpolicyhub.org/), as well as a computer science teacher at [The Nueva School](https://www.nuevaschool.org/) and [The Kinkaid School](https://www.kinkaid.org/). I love the creative possibilities of technology, especially as a tool for education! 
 
-Recently I've decided to deepen my technical expertise and I'm in the middle of a batch at [The Recurse Center](https://www.recurse.com/) where I am having lots of fun programming every day! 🏋️‍♂️ 💻 
+Recently I've decided to deepen my technical expertise. Over the summer of 2023, I completed a batch at [The Recurse Center](https://www.recurse.com/). 🏋️‍♂️ 💻 
 
 ---
 
