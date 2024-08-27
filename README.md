@@ -9,7 +9,7 @@ Recently I've decided to deepen my technical expertise. Over the summer of 2023,
 
 ## Things I'm Doing:
 
-- 🔨 Creating a platform to teach computer science basic concepts through building 'Karel the Robot' type puzzles with [karel worlds](https://github.com/dalbanhi/karel-worlds). Read about it on my portfolio here: [Karel Worlds](https://david-alban.com/projects/karelWorlds).
+- 🔨 Refining a platform to teach computer science basic concepts through building 'Karel the Robot' type puzzles with [karel worlds](https://github.com/dalbanhi/karel-worlds). Read about it on my portfolio here: [Karel Worlds](https://david-alban.com/projects/karelWorlds).
 - 💭 Iterating on [GitNote](https://github.com/dalbanhi/git-note), an 'external brain' repository for my web dev learning journey. Read about it on my portfolio here: [GitNote](https://david-alban.com/projects/gitNote).
 - 🌱 Collaborating on the [TeamWyrk app](https://github.com/noscenthairspray/Teamwyrk), a platform to help people trying to break into the tech industry. Read about it on my portfolio here: [TeamWyrk](https://david-alban.com/projects/teamwyrk).
 
